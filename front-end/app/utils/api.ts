@@ -1,0 +1,1 @@
+// Utilizada usualmente para consultar de alguna api externa
